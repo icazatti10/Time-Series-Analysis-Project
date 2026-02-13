@@ -1,0 +1,6 @@
+data/
+# virtual enviroment
+.venv/
+# python cache
+__pycache__/
+*.pyc
