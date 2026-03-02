@@ -4,4 +4,8 @@ matplotlib
 statsmodels
 jupyter
 ipykernel
+warnings
+os
+sys
+scipy
 
