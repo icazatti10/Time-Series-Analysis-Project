@@ -11,6 +11,6 @@ def build_datapath(dataset):
 
 # define datasets
 datasets = build_datapath({
-    # Frequency: 10 min / Dataset: weather
+    # Frequency: 10 min / Dataset: weather / A.Icazatti
     "weather_10_min": "weather.csv",
 })
