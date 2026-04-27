@@ -7,7 +7,7 @@ def ts_plot(x, y, title: str, xlabel: str, ylabel: str, figsize=(12, 4)):
     plt.title(title)
     plt.xlabel(xlabel)
     plt.ylabel(ylabel)
-    plt.grid(True)
+    plt.grid(False)
     plt.show()
 
     return fig
